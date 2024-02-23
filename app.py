@@ -4,7 +4,7 @@ import numpy as np
 from prediction import predict
 
 
-st.title('Classifying Iris Flowers')#displays on top of the app
+st.title('poda patti!!!')#displays on top of the app
 st.markdown('Toy model to play to classify iris flowers into \
      (setosa, versicolor, virginica) based on their sepal/petal \
     and length/width.')
